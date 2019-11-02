@@ -21,5 +21,6 @@ $('#wrap').scrollContent({
 ```
 
 ## デモ
-[デモページ](http://webdrawer.net/sample/js/contentScroll/index.html)
-[ブログ](http://webdrawer.net/javascript/contentscroll.html)
+[デモページ](http://webdrawer.net/sample/js/contentScroll/index.html){:target="_blank"}
+
+[ブログ](http://webdrawer.net/javascript/contentscroll.html){:target="_blank"}
